@@ -8,9 +8,9 @@
 
 Результаты (До / После):
 1. GC Alloc в кадре: 2.3 MB -> 0 B
-2. Draw Calls:** 195 -> 180
-3. Render Textures Changes:** 24 -> 8
-4. Потребление памяти (Total Committed):** 0.76 GB -> 0.67 GB
+2. Draw Calls: 195 -> 180
+3. Render Textures Changes: 24 -> 8
+4. Потребление памяти (Total Committed): 0.76 GB -> 0.67 GB
 
 Теги в репозитории:
 1. `before-optimization` — исходное состояние проекта.
