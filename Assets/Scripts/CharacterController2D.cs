@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 public enum GroundType { None, Soft, Hard }
-
+//Optimized
 public class CharacterController2D : MonoBehaviour
 {
     readonly Vector3 flippedScale = new Vector3(-1, 1, 1);
