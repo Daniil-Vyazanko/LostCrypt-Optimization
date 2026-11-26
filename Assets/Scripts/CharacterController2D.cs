@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 public enum GroundType { None, Soft, Hard }
-//Optimized
 public class CharacterController2D : MonoBehaviour
 {
     readonly Vector3 flippedScale = new Vector3(-1, 1, 1);
@@ -12,6 +11,7 @@ public class CharacterController2D : MonoBehaviour
     [SerializeField] Animator animator = null;
     [SerializeField] Transform puppet = null;
     [SerializeField] CharacterAudio audioPlayer = null;
+    //NewOptimizations
 
     [Header("Tail")]
     [SerializeField] Transform tailAnchor = null;
