@@ -13,5 +13,5 @@
 4. Потребление памяти (Total Committed): 0.76 GB -> 0.67 GB
 
 Теги в репозитории:
-1. `before-optimization` — исходное состояние проекта.
-2. `after-optimization` — проект после внедрения оптимизаций.
+1. before-optimization — исходное состояние проекта.
+2. after-optimization — проект после внедрения оптимизаций.
